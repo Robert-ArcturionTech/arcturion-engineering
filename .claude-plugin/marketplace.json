@@ -1,0 +1,11 @@
+{
+  "name": "arcturion-engineering",
+  "owner": { "name": "Robert Lingoes" },
+  "plugins": [
+    {
+      "name": "arcturion-engineering",
+      "source": "./",
+      "description": "Engineering skills for Claude Code: context-engineering, codegraph, adversarial-review, scaffold, skill-tester."
+    }
+  ]
+}

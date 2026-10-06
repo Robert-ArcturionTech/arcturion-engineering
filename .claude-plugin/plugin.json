@@ -1,0 +1,8 @@
+{
+  "name": "arcturion-engineering",
+  "version": "0.1.0",
+  "description": "Engineering skills for Claude Code: context-engineering discipline, a SQLite code-grounding index (codegraph), cost-capped second-model adversarial review, starter scaffolds, and a skill linter.",
+  "author": { "name": "Robert Lingoes" },
+  "license": "MIT",
+  "repository": "https://github.com/ArcturionTechnologies/arcturion-engineering"
+}
